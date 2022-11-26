@@ -1,0 +1,21 @@
+#register{
+  background-color:antiquewhite;
+  color:black;
+  padding: 100px ;
+}
+
+#registration-container{
+  text-align: center;
+  padding:50px 50px;
+}
+
+.errorMsg{
+  padding: 40px 250px;
+}
+
+.button{
+  color: whitesmoke;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: black;
+  padding: 20px 40px;
+}
